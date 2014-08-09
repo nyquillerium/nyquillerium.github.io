@@ -29,7 +29,7 @@
       1px -1px 0 #000,
       -1px 1px 0 #000,
        1px 1px 0 #000;
-    text-shadow-opacity: 0.8;  opacity: 0.9;
+  	opacity: 0.9;
 }
 
 #intro h2 {
@@ -40,6 +40,22 @@
 #intro h3 {
 	display:inline;
 	color: #555555;
+}
+
+a:link {
+    color: #555555;
+}
+
+a:visited {
+    color: #555555;
+}
+
+a:hover {
+    color: #555555;
+}
+
+a:active {
+    color: #555555;
 }
 
 .fade {
