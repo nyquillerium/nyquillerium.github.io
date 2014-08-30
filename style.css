@@ -46,9 +46,6 @@
 {
 	display:inline;
 	font-size: 12px;
-	transition: color .15s ease;
-   -moz-transition: color .15s ease;
-   -webkit-transition: color .15s ease;
 }
 
 .colorfade:hover {
